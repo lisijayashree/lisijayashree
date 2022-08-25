@@ -49,7 +49,7 @@
 <br>
 <!-- STREAK CODE -->
 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisijayashree" alt="samar4saeedkhan" /></p>
 
 
 <!-- GITHUB STAT CODE -->
