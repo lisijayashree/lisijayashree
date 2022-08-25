@@ -51,38 +51,6 @@
 
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisijayashree" alt="samar4saeedkhan" /></p>
 
-
-<!-- GITHUB STAT CODE -->
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
-
-<!-- 1st DROP DOWN -->
-
-<details>
-  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
- <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=samar4saeedkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar4saeedkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- 2nd DROP DOWN -->
-
-<details>
- <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
-<br>
-  <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=samar4saeedkhan&theme=onedark">
-</details>
-
-<!-- 3rd DROP DOWN -->
-
-<details>
-  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
-    <br>
-    <a href="https://github.com/samar4saeedkhan/github-readme-activity-graph"><img alt="Samar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samar4saeedkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    </details>
-
 <!--CONNECT WITH ME CODE  -->
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
