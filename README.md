@@ -92,7 +92,7 @@
 <a href = "https://www.linkedin.com/in/jayashree-patra-263813190/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "https://github.com/lisijayashree" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
 <a href="mailto:lisijayashree@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/samarsaeedkhan4" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+<a href="https://www.hackerrank.com/lisijayashree" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 </p>
 
 <h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
