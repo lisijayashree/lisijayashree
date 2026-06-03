@@ -5,7 +5,7 @@
 <!-- INTRODUCTION -->
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Jayashree </h1>
-<h3 align="center">I'm on my way to be an aspiring Data Analyst </h3>
+<h3 align="center">Aspiring GEN ai Engineer </h3>
 
 
 <!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
